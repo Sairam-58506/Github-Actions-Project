@@ -123,4 +123,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: sairam/bankapp:latest
+        tags: sairam506/bankapp:latest
